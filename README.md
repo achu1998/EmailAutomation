@@ -28,8 +28,8 @@ Things to know
   * select copy xpath
   
  
- ## Replace necessay inputs in the code to make it fully functional
- ## The code provided is a tested and its working 
+ #### Replace necessay inputs in the code to make it fully functional
+ #### The code provided is a tested and its working 
   
   
   
