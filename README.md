@@ -29,7 +29,7 @@ Things to know
   
  
  #### Replace necessay inputs in the code to make it fully functional
- #### The code provided is a tested and its working 
+ #### The code provided is a tested working code
   
   
   
